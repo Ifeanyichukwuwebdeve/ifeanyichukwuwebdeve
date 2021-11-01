@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 Am Great Ifeanyichukwu london Adams 
+#### a web/Blockchain developer from Port Harcourt, Rivers state, Nigeria 🇳🇬 
 
 <!--
 **Ifeanyichukwuwebdeve/ifeanyichukwuwebdeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Am Great Ifeanyichukwu london Adams 
-a web/Blockchain developer from Port Harcourt, Rivers state, Nigeria 🇳🇬 
+
 
 ### TECHNOLOGIES I WORK WITH
 - Vue.js 🚀
@@ -32,5 +32,6 @@ a web/Blockchain developer from Port Harcourt, Rivers state, Nigeria 🇳🇬
 - 💬 Ask me about Video games 🎮
 - 📫 How to reach me: @Ifeanyiwebdeve twitter
 - ⚡ Fun fact: I sleep more than I code 😆
-- 
+
+
 ![Great's github stats](https://github-readme-stats.vercel.app/api?username=Ifeanyichukwuwebdeve&show_icons=true&theme=radical)
