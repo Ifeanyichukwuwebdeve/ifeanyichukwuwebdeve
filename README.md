@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - Solidity 🥇
 - GraphiQl 🚀
 
+#### What am currently .... 
 
 - 🔭 I’m currently working on something big
 - 🌱 I’m currently learning web3js
