@@ -22,13 +22,14 @@ Here are some ideas to get you started:
 - Vue.js 🚀
 - Node.js/express.js 🔥
 - web3js 🥇
-
+- Solidity 🥇
+- GraphiQl 🚀
 
 
 - 🔭 I’m currently working on something big
 - 🌱 I’m currently learning web3js
 - 👯 I’m looking to collaborate with you
-- 🤔 I’m looking for help with Anything Javascript related
+- 🤔 I’m looking to help with Anything Javascript related
 - 💬 Ask me about Video games 🎮
 - 📫 How to reach me: @Ifeanyiwebdeve twitter
 - ⚡ Fun fact: I sleep more than I code 😆
