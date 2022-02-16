@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with you
 - 🤔 I’m looking to help with Anything Javascript related
 - 💬 Ask me about Video games 🎮
-- 📫 How to reach me: @Ifeanyiwebdeve twitter
+- 📫 How to reach me: @greatAdams01  twitter
 - ⚡ Fun fact: I sleep more than I code 😆
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifeanyichukwuwebdeve&layout=compact)](https://github.com/alabo-excel/github-readme-stats)
-![Great's github stats](https://github-readme-stats.vercel.app/api?username=Ifeanyichukwuwebdeve&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greatAdams01&layout=compact)](https://github.com/alabo-excel/github-readme-stats)
+![Great's github stats](https://github-readme-stats.vercel.app/api?username=greatAdams01&show_icons=true)
