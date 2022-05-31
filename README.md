@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 
 
 ### TECHNOLOGIES I WORK WITH
+- Javascript 🚀
+- Typescript 🚀
 - Vue.js 🚀
 - Node.js/express.js 🔥
+- Nestjs 🐈‍⬛
 - Etherjs 🥇
 - Solidity 🥇
 - GraphiQl 🚀
