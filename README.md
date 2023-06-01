@@ -17,7 +17,7 @@ Hi, I'm [Great Adams](https://greatadams01.netlify.app) — a Blockchain enthusi
 
 | My commit history |
 |---|
-|[![greatAdams01](https://github-readme-activity-graph.cyclic.app/graph?username=greatAdams01&bg_color=151515&color=c1c0c1&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+[![greatAdams01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=greatAdams01&theme=dracula)](https://github.com/greatAdams01/github-readme-activity-graph)
 
 
 `~✨ i use arch btw`
