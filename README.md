@@ -1,6 +1,9 @@
 # Great Adams
-Hi, I'm [Great Adams](https://greatadams01.netlify.app) — a Blockchain enthusiast who loves tinkering with technology and making things work. 
-* I constantly push the boundaries of what I know to create weird and wonderful projects!
+Hi, I'm [Great Adams](https://greatadams01.netlify.app) — a passionate blockchain enthusiast with a penchant for unraveling the intricacies of technology and transforming concepts into reality. My journey is one of perpetual exploration, where I consistently challenge the boundaries of my knowledge to craft innovative and fascinating projects.
+
+* As a seasoned full-stack developer, I bring a wealth of experience to the table. My expertise spans a multitude of technologies, with JavaScript at the forefront for primary development. Additionally, I delve into the realms of Solidity and Tealscript for the exciting realm of smart contract development.
+
+* Join me on this adventure where creativity knows no bounds, and the pursuit of knowledge is a never-ending thrill!
 <!-- * I am currently a junior pursuing a bacherlors degree focusing on CS with specialization in Software Engineering. 🚀 -->
 
 
